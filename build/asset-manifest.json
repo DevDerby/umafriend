@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/umafriend/static/css/main.e6c13ad2.css",
+    "main.js": "/umafriend/static/js/main.8cfa69e0.js",
+    "static/js/453.66d57ab8.chunk.js": "/umafriend/static/js/453.66d57ab8.chunk.js",
+    "index.html": "/umafriend/index.html",
+    "main.e6c13ad2.css.map": "/umafriend/static/css/main.e6c13ad2.css.map",
+    "main.8cfa69e0.js.map": "/umafriend/static/js/main.8cfa69e0.js.map",
+    "453.66d57ab8.chunk.js.map": "/umafriend/static/js/453.66d57ab8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8cfa69e0.js"
+  ]
+}
